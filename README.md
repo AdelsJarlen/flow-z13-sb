@@ -1,4 +1,4 @@
-# galtzo &nbsp; [![bluebuild build badge](https://github.com/AdelsJarlen/flow-z13-sb/actions/workflows/build.yml/badge.svg)](https://github.com/AdelsJarlen/flow-z13-sb/actions/workflows/build.yml)
+# flow-z13-sb &nbsp; [![bluebuild build badge](https://github.com/AdelsJarlen/flow-z13-sb/actions/workflows/build.yml/badge.svg)](https://github.com/AdelsJarlen/flow-z13-sb/actions/workflows/build.yml)
 
 This image is based on `aurora-dx-hwe:latest`.  A new version / build is released daily.
 
